@@ -1,28 +1,28 @@
 # BaseProjectV3 GASP+
 
-## Introduction:
-Le BaseProjectV3 est une structure de dossier organisé ranger et coloré afin d'avoir une bonne base de travail.
+## Introduction
+**BaseProjectV3** is a well-organized, tidy, and color-coded folder structure that serves as a strong foundation for development.
 
-Ici il s'agit d'une réorganisation du Game Animation Sample Project (GASP) sur l'architecture BaseProjectV3, avec
-un retarget complet des animations pour le skeleton UE5 (Manny/Queen).
+This project is a reorganization of the **Game Animation Sample Project (GASP)** using the BaseProjectV3 architecture, with all animations fully retargeted to the **UE5 skeleton (Manny/Queen)**.
 
-En plus de cela, j'ai intégré le système d'overlay du Advanced Locomotion System (ALS), ainsi qu'une base pour
-l'utilisation de personnage modulaire, ainsi que la possibilité d'utiliser le traversal du GASP sur n'importe que surface.
+Additionally, the project includes:
+- The **Overlay System** from the **Advanced Locomotion System (ALS)**
+- A base setup for **modular characters**
+- The ability to use **GASP traversal** on any surface
 
-## Fonctionnalitées:
-- BaseProjectV3
-- Game Animation Sample Project (GASP)
-- Tous les animations sont basé sur le skeleton UE5
-- Le système d'Overlay d'ALS
-- Tous les Overlays pré intégré a ALS
-- Tous les armes et autres équipement d'ALS
-- Le menu debug de changement d'overlay d'ALS
-- J'ai supprimé tous les auto retarget, et les perso autre que le mannequin UE5
+## Features
+- BaseProjectV3 folder structure
+- Game Animation Sample Project (GASP) content
+- All animations retargeted to UE5's Manny/Queen skeleton
+- ALS overlay system integrated
+- All overlays from ALS pre-included
+- All ALS weapons and equipment included
+- ALS debug menu for switching overlays
+- Removed all auto-retargeting and non-UE5 mannequin characters
 
-## Vidéo:
-Une petite présentation et aperçu du projet dans cette vidéo sur ma chaine youtube: [Lyria Studio](https://youtu.be/KGgd7l5As4s)
-
-Mise à jour pour l'ajout du système d'overlay: [Lyria Studio](https://youtu.be/kM4vRaiceUI)
+## Videos
+- [Project Overview – YouTube](https://youtu.be/KGgd7l5As4s)
+- [Overlay System Update – YouTube](https://youtu.be/kM4vRaiceUI)
 
 ## Contribution:
 Si vous souhaitez participer et améliorer le projet, cela dit j'aimera qu'on reste dans la base, il ne s'agit pas de faire un kit complet.
